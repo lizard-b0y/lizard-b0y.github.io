@@ -410,11 +410,15 @@
 }
 
 .u-section-1-5 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 830px;
 }
 
 .u-section-1-5 .u-group-1 {
   background-image: linear-gradient(to bottom, rgba(41, 45, 51, 0.6), rgba(41, 45, 51, 0.6));
+  height: auto;
+  min-height: 324px;
+  width: 656px;
+  margin: 87px auto 60px 4px;
 }
 
 .u-section-1-5 .u-container-layout-1 {
@@ -439,7 +443,9 @@
     min-height: 325px;
     width: 560px;
     --radius: 50px;
-    margin: 27px auto 60px 0;
+    margin-top: 27px;
+    margin-left: 0;
+    height: auto;
   }
 
   .u-section-1-5 .u-container-layout-1 {
