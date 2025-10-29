@@ -46655,7 +46655,7 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: -28px;
+    margin-top: 20px;
     margin-bottom: 13px;
   }
 }
@@ -46677,7 +46677,6 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-image-1 {
     width: 340px;
     height: 54px;
-    margin-top: -18px;
     margin-left: calc(((100% - 340px) / 2));
   }
 }
