@@ -100,4 +100,19 @@
   .u-section-1 .u-image-1 {
     min-height: 530px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 653px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  height: auto;
+  min-height: 629px;
+  margin: 12px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
 }
