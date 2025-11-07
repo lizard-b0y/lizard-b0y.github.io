@@ -1,1 +1,1 @@
-grocery.biome.github.io
+grocery-biome.github.io
