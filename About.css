@@ -1,14 +1,14 @@
  .u-section-1 {
-  min-height: 609px;
+  min-height: 862px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 51px;
-  margin-bottom: 51px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 518px;
+  min-height: 677px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -43,6 +43,7 @@
   background-image: url("images/Screenshot2025-10-24141227.png");
   background-size: cover;
   background-position: 50% 50%;
+  min-height: 677px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -51,30 +52,35 @@
 
 @media (max-width: 1199px) {
    .u-section-1 {
-    min-height: 518px;
+    min-height: 926px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 58px;
+    margin-bottom: 53px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 544px;
+    min-height: 0;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 486px;
+    min-height: 0;
   }
 }
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 191px;
+    min-height: 435px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 943px;
   }
 
   .u-section-1 .u-image-1 {
-    background-position: 73.65% 50%;
-    min-height: 745px;
+    background-position: 70.21% 50%;
+    min-height: 943px;
   }
 }
 
